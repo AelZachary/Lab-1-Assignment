@@ -48,6 +48,6 @@ public class MyFirstProgram {
             System.out.println(Bblue + "(Java version : " + System.getProperty("java.version") + ")");
             
 
-            // close the scanner
+            // Close the scanner
             scanner.close();
 }}
