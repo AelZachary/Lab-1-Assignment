@@ -36,7 +36,7 @@ public class MyFirstProgram {
 
             // User Input (Task 2)
             System.out.println(Orange + "Can you please tell me your name?");
-            System.out.print(Red + "Enter your name :  ");
+            System.out.print(Red + "Enter your name : ");
             userName = scanner.next();
             System.out.println(Purple + "Hello " + Bred + userName + Purple + " Nice to meet you!");
 
@@ -44,6 +44,7 @@ public class MyFirstProgram {
             System.out.println(Green + "Let me tell you a funfact about java!");
             System.out.println(myList.get(0));
 
+            // Display Java Version (Task 4)
             System.out.println(Bblue + "(Java version : " + System.getProperty("java.version") + ")");
             
 
